@@ -1,16 +1,34 @@
-## Hi there 👋
+**• Solo • Creative • Designer • Web Tools • Open Source •**
 
-<!--
-**LandoNikko/LandoNikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical web tools that prioritize **privacy**, **local processing** and **user control**.  
+Focus: Adapting and experimenting with different UIs and exploring UX challenges.
 
-Here are some ideas to get you started:
+### Utility Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** - For capturing frames from video| **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** - For transcribing audio and video with AI |
+| :------------: | :------------: |
+| ![Pilko Studio](https://i.imgur.com/jESjUCC.jpeg) | ![Transcribe Panel](https://i.imgur.com/jESjUCC.jpeg) |
+| **[Cromch](https://github.com/LandoNikko/Cromch)** - For quirky and simple image editing | **[Local Image Converter](https://github.com/LandoNikko/Local-Image-Converter)** - For batch adjusting and converting images |
+| ![Cromch](https://i.imgur.com/jESjUCC.jpeg) | ![Local Image Converter](https://i.imgur.com/jESjUCC.jpeg) |
+
+### Creative Tools
+
+| **[Glyphtrix](https://github.com/LandoNikko/Glyphtrix)** - Turn images and videos to ASCII | **[Video Mood Visualizer](https://github.com/LandoNikko/Video-Mood-Visualizer)** - Visualize video by its mood |
+| :------------: | :------------: |
+| ![Glyphtrix](https://i.imgur.com/jESjUCC.jpeg) | ![Video Mood Visualizer](https://i.imgur.com/jESjUCC.jpeg) |
+| **[Gradient Generator](https://github.com/LandoNikko/Gradient-Generator)** - Create gradients | **[GLITZH.IT](https://github.com/LandoNikko/GLITZH.IT)** - Audiovisualize |
+| ![Gradient Generator](https://i.imgur.com/jESjUCC.jpeg) | ![GLITZH.IT](https://i.imgur.com/jESjUCC.jpeg) |
+
+### Front-end websites for open source projects
+
+| **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[Fantasy Map Generator](https://github.com/LandoNikko/Fantasy-Map-Generator)** - Panel redesign proposal |
+| :------------: | :------------: |
+| ![Power Bank 3D Visualizer](https://i.imgur.com/jESjUCC.jpeg) | ![Fantasy Map Generator](https://i.imgur.com/jESjUCC.jpeg) |
+| **[Film Packaging Archive](https://github.com/LandoNikko/Film-Packaging)** - Website for displaying database content | - |
+| ![Film Packaging Archive](https://i.imgur.com/jESjUCC.jpeg) | - |
+
+### Collaboration
+
+- I am looking for projects to help in UI/UX 🤝
+- I am interested on projects that are similar to mine or somehow related to Japan/in Japanese
+- To connect, see my sidebar for Discord and email
