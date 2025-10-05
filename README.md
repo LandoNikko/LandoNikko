@@ -1,7 +1,7 @@
 **• Solo • Creative • Designer • Web Tools • Open Source •**
 
 Building practical web tools that prioritize **privacy**, **local processing** and **user control**.  
-Focus: Adapting and experimenting with different UIs and exploring UX challenges.
+I like to adapt and experiment with different UIs and explore UX challenges.
 
 ### Utility Tools
 
