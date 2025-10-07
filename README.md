@@ -24,11 +24,12 @@ I like to adapt and experiment with different UIs and explore UX challenges.
 | **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[Fantasy Map Generator](https://github.com/LandoNikko/Fantasy-Map-Generator)** - Panel redesign proposal |
 | :------------: | :------------: |
 | ![Power Bank 3D Visualizer](https://i.imgur.com/CJtKi2a.jpeg) | ![Fantasy Map Generator](https://i.imgur.com/wunrWUn.jpeg) |
-| **[Film Packaging Archive](https://github.com/LandoNikko/Film-Packaging)** - Website for displaying database content | - |
-| ![Film Packaging Archive](https://i.imgur.com/JaZtovM.jpeg) | - |
+| **[Film Packaging Archive](https://github.com/LandoNikko/Film-Packaging)** - Website for displaying database content | **[路線メーカー](https://github.com/LandoNikko/Train-Announcement-Creator)** - Create train lines with audio |
+| ![Film Packaging Archive](https://i.imgur.com/JaZtovM.jpeg) | ![Film Packaging Archive](https://i.imgur.com/o0QtaiL.jpeg) |
 
 ### Collaboration
 
 - I am looking for projects to help in UI/UX 🤝
-- I am interested on projects that are similar to mine or somehow related to Japan/in Japanese
+  - Projects that are similar to mine!
 - To connect, see my sidebar for Discord and email
+- 一緒に何か作ろう！
