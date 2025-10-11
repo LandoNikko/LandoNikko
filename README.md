@@ -19,13 +19,17 @@ I like to adapt and experiment with different UIs and explore UX challenges.
 | **[Gradient Generator](https://github.com/LandoNikko/Gradient-Generator)** - Create gradients | **[GLITZH.IT](https://github.com/LandoNikko/GLITZH.IT)** - Audiovisualize |
 | ![Gradient Generator](https://i.imgur.com/LtbXOMh.jpeg) | ![GLITZH.IT](https://i.imgur.com/jESjUCC.jpeg) |
 
-### Front-end websites for open source projects
+### Misc
 
-| **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[Fantasy Map Generator](https://github.com/LandoNikko/Fantasy-Map-Generator)** - Panel redesign proposal |
+| **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[路線メーカー](https://github.com/LandoNikko/Train-Announcement-Creator)** - Train Line Maker |
 | :------------: | :------------: |
-| ![Power Bank 3D Visualizer](https://i.imgur.com/CJtKi2a.jpeg) | ![Fantasy Map Generator](https://i.imgur.com/wunrWUn.jpeg) |
-| **[Film Packaging Archive](https://github.com/LandoNikko/Film-Packaging)** - Website for displaying database content | **[路線メーカー](https://github.com/LandoNikko/Train-Announcement-Creator)** - Create train lines with audio |
-| ![Film Packaging Archive](https://i.imgur.com/JaZtovM.jpeg) | ![Film Packaging Archive](https://i.imgur.com/o0QtaiL.jpeg) |
+| ![Power Bank 3D Visualizer](https://i.imgur.com/CJtKi2a.jpeg) | ![Train Line Maker](https://i.imgur.com/o0QtaiL.jpeg) |
+
+### Forks
+
+| **[Fantasy Map Generator](https://github.com/LandoNikko/Fantasy-Map-Generator)** - Panel redesign proposal | **[Film Packaging Archive](https://github.com/LandoNikko/Film-Packaging)** - UI Redesign Concept |
+| :------------: | :------------: |
+| ![Fantasy Map Generator](https://i.imgur.com/wunrWUn.jpeg) | ![Film Packaging Archive](https://i.imgur.com/JaZtovM.jpeg) |
 
 ### Collaboration
 
