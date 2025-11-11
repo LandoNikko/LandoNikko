@@ -5,7 +5,7 @@ I like to adapt and experiment with different UIs and explore UX challenges.
 
 ### Utility Tools
 
-| **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** - For capturing frames from video| **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** - For transcribing audio and video with AI |
+| **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** - For capturing frames from video| **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** - For transcribing audio and video |
 | :------------: | :------------: |
 | ![Pilko Studio](https://i.imgur.com/d6ldSgT.jpeg) | ![Transcribe Panel](https://i.imgur.com/ov6zNFm.jpeg) |
 | **[Cromch](https://github.com/LandoNikko/Cromch)** - For quirky and simple image editing | **[Local Image Converter](https://github.com/LandoNikko/Local-Image-Converter)** - For batch adjusting and converting images |
@@ -21,9 +21,9 @@ I like to adapt and experiment with different UIs and explore UX challenges.
 
 ### Misc
 
-| **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[路線メーカー](https://github.com/LandoNikko/Train-Announcement-Creator)** - Train Line Maker |
+| **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[路線メーカー](https://github.com/LandoNikko/Transit-Designer)** - Transit Designer |
 | :------------: | :------------: |
-| ![Power Bank 3D Visualizer](https://i.imgur.com/CJtKi2a.jpeg) | ![Train Line Maker](https://i.imgur.com/o0QtaiL.jpeg) |
+| ![Power Bank 3D Visualizer](https://i.imgur.com/CJtKi2a.jpeg) | ![Transit Designer](https://i.imgur.com/CRlUFUn.jpeg) |
 
 ### Forks
 
