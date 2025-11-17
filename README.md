@@ -1,7 +1,8 @@
 **• Solo • Creative • Designer • Web Tools • Open Source •**
 
-Building practical web tools that prioritize **privacy**, **local processing** and **user control**.  
-I like to adapt and experiment with different UIs and explore UX challenges.
+Making tools for creative people.
+Focusing on **privacy**, **local processing** and **user control**.  
+Experimenting with different UI approaches to tackle UX challenges.
 
 ### Utility Tools
 
