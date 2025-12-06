@@ -4,6 +4,13 @@ Making tools for creative people.
 Focusing on **privacy**, **local processing** and **user control**.  
 Experimenting with different UI approaches to tackle UX challenges.
 
+### Collaboration
+
+- I am looking for projects to help in UI/UX 🤝
+  - Projects that are similar to mine!
+- To connect, see my sidebar for Discord and email
+- 一緒に何か作ろう！
+
 ### Utility Tools
 
 | **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** - For capturing frames from video| **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** - For transcribing audio and video |
@@ -31,10 +38,3 @@ Experimenting with different UI approaches to tackle UX challenges.
 | **[Fantasy Map Generator](https://github.com/LandoNikko/Fantasy-Map-Generator)** - Panel redesign proposal | **[Film Packaging Archive](https://github.com/LandoNikko/Film-Packaging)** - UI Redesign Concept |
 | :------------: | :------------: |
 | ![Fantasy Map Generator](https://i.imgur.com/wunrWUn.jpeg) | ![Film Packaging Archive](https://i.imgur.com/JaZtovM.jpeg) |
-
-### Collaboration
-
-- I am looking for projects to help in UI/UX 🤝
-  - Projects that are similar to mine!
-- To connect, see my sidebar for Discord and email
-- 一緒に何か作ろう！
