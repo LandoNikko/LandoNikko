@@ -13,7 +13,7 @@ Experimenting with different UI approaches to tackle UX challenges.
 
 ### Utility Tools
 
-| **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** - For capturing frames from video| **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** - For transcribing audio and video |
+| **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** - Capture video video frames | **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** - Transcribe audio and video |
 | :------------: | :------------: |
 | ![Pilko Studio](https://i.imgur.com/d6ldSgT.jpeg) | ![Transcribe Panel](https://i.imgur.com/ov6zNFm.jpeg) |
 | **[Cromch](https://github.com/LandoNikko/Cromch)** - Degrade image quality | **[Local Image Converter](https://github.com/LandoNikko/Local-Image-Converter)** - For batch adjusting and converting images |
@@ -21,9 +21,9 @@ Experimenting with different UI approaches to tackle UX challenges.
 
 ### Creative Tools
 
-| **[Glyphtrix](https://github.com/LandoNikko/Glyphtrix)** - Turn images and videos to ASCII | **[Video Mood Visualizer](https://github.com/LandoNikko/Video-Mood-Visualizer)** - Visualize video by its mood |
+| **[Glyphtrix](https://github.com/LandoNikko/Glyphtrix)** - Images and videos to ASCII | **[Video Mood Visualizer](https://github.com/LandoNikko/Video-Mood-Visualizer)** - Visualize video by its mood |
 | :------------: | :------------: |
-| ![Glyphtrix](https://i.imgur.com/0Nia9gW.jpeg) | ![Video Mood Visualizer](https://i.imgur.com/xJXtAm7.jpeg) |
+| ![Glyphtrix](https://i.imgur.com/0Nia9gW.jpeg) | ![Video Mood Visualizer](https://i.imgur.com/sNOB0Rg.jpeg) |
 | **[Gradient Generator](https://github.com/LandoNikko/Gradient-Generator)** - Create gradients | **[GLITZH.IT](https://github.com/LandoNikko/GLITZH.IT)** - Audiovisualize |
 | ![Gradient Generator](https://i.imgur.com/LtbXOMh.jpeg) | ![GLITZH.IT](https://i.imgur.com/jESjUCC.jpeg) |
 
