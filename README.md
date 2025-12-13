@@ -17,7 +17,7 @@ Experimenting with different UI approaches to tackle UX challenges.
 | :------------: | :------------: |
 | ![Pilko Studio](https://i.imgur.com/d6ldSgT.jpeg) | ![Transcribe Panel](https://i.imgur.com/ov6zNFm.jpeg) |
 | **[Cromch](https://github.com/LandoNikko/Cromch)** - Degrade image quality | **[Local Image Converter](https://github.com/LandoNikko/Local-Image-Converter)** - For batch adjusting and converting images |
-| ![Cromch](https://i.imgur.com/7QhpCbq.png) | ![Local Image Converter](https://i.imgur.com/jmJrHSc.jpeg) |
+| ![Cromch](https://i.imgur.com/5hgjRhg.png) | ![Local Image Converter](https://i.imgur.com/jmJrHSc.jpeg) |
 
 ### Creative Tools
 
