@@ -31,7 +31,7 @@ Experimenting with different UI approaches to tackle UX challenges.
 
 | **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[路線メーカー](https://github.com/LandoNikko/Transit-Designer)** - Transit Designer |
 | :------------: | :------------: |
-| ![Power Bank 3D Visualizer](https://i.imgur.com/CJtKi2a.jpeg) | ![Transit Designer](https://i.imgur.com/CRlUFUn.jpeg) |
+| ![Power Bank 3D Visualizer](https://i.imgur.com/OBL1NOG.jpeg) | ![Transit Designer](https://i.imgur.com/CRlUFUn.jpeg) |
 
 ### Forks
 
