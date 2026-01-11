@@ -1,37 +1,37 @@
-**• Solo • Creative • Designer • Web Tools • Open Source •**
+**• Solo • Creative • Designer • Web Tools • Open Source • User Control • Privacy •**
 
-Making tools for creative people.
-Focusing on **privacy**, **local processing** and **user control**.  
-Experimenting with different UI approaches to tackle UX challenges.
+A creative making creative stuff for creative people.
+
+Solving problems and experimenting from UI approaches to tackling UX challenges.
 
 ### Collaboration
 
-- I am looking for projects to help in UI/UX 🤝
+- I am looking for collaborative projects to help in UI/UX 🤝
   - Projects that are similar to mine!
-- To connect, see my sidebar for Discord and email
+  - Connect: Discord or email
 - 一緒に何か作ろう！
 
 ### Utility Tools
 
-| **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** - Capture video video frames | **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** - Transcribe audio and video |
+| **[Pilko Studio](https://github.com/LandoNikko/Pilko-Frame-Capture-Studio)** | **[Transcribe Panel](https://github.com/LandoNikko/Transcribe-Panel)** |
 | :------------: | :------------: |
-| ![Pilko Studio](https://i.imgur.com/d6ldSgT.jpeg) | ![Transcribe Panel](https://i.imgur.com/ov6zNFm.jpeg) |
-| **[Cromch](https://github.com/LandoNikko/Cromch)** - Degrade image quality | **[Local Image Converter](https://github.com/LandoNikko/Local-Image-Converter)** - For batch adjusting and converting images |
-| ![Cromch](https://i.imgur.com/5hgjRhg.png) | ![Local Image Converter](https://i.imgur.com/jmJrHSc.jpeg) |
+| ![Pilko Studio](https://i.imgur.com/4GotYCg.jpeg) | ![Transcribe Panel](https://i.imgur.com/ov6zNFm.jpeg) |
+| **[Cromch](https://github.com/LandoNikko/Cromch)** |  |
+| ![Cromch](https://i.imgur.com/5hgjRhg.png) |  |
 
 ### Creative Tools
 
-| **[Glyphtrix](https://github.com/LandoNikko/Glyphtrix)** - Images and videos to ASCII | **[Video Mood Visualizer](https://github.com/LandoNikko/Video-Mood-Visualizer)** - Visualize video by its mood |
+| **[Glyphtrix](https://github.com/LandoNikko/Glyphtrix)** | **[Video Mood Visualizer](https://github.com/LandoNikko/Video-Mood-Visualizer)** |
 | :------------: | :------------: |
-| ![Glyphtrix](https://i.imgur.com/0Nia9gW.jpeg) | ![Video Mood Visualizer](https://i.imgur.com/sNOB0Rg.jpeg) |
-| **[Gradient Generator](https://github.com/LandoNikko/Gradient-Generator)** - Create gradients | **[GLITZH.IT](https://github.com/LandoNikko/GLITZH.IT)** - Audiovisualize |
-| ![Gradient Generator](https://i.imgur.com/LtbXOMh.jpeg) | ![GLITZH.IT](https://i.imgur.com/jESjUCC.jpeg) |
+| ![Glyphtrix](https://i.imgur.com/0Nia9gW.jpeg) | ![Video Mood Visualizer](https://i.imgur.com/EEt1trO.jpeg) |
+| **[Gradient Generator](https://github.com/LandoNikko/Gradient-Generator)** |  |
+| ![Gradient Generator](https://i.imgur.com/RkKYelp.jpeg) |  |
 
 ### Misc
 
-| **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** - Visualize different power bank sizes | **[路線メーカー](https://github.com/LandoNikko/Transit-Designer)** - Transit Designer |
+| **[Power Bank 3D Visualizer](https://github.com/LandoNikko/Power-Bank-3D-Visualizer)** | **[路線メーカー](https://github.com/LandoNikko/Transit-Designer)** |
 | :------------: | :------------: |
-| ![Power Bank 3D Visualizer](https://i.imgur.com/OBL1NOG.jpeg) | ![Transit Designer](https://i.imgur.com/CRlUFUn.jpeg) |
+| ![Power Bank 3D Visualizer](https://i.imgur.com/Bl3HYls.jpeg) | ![Transit Designer](https://i.imgur.com/CRlUFUn.jpeg) |
 
 ### Forks
 
