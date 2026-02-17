@@ -38,3 +38,9 @@ Solving problems and experimenting from UI approaches to tackling UX challenges.
 | **[Fantasy Map Generator](https://github.com/LandoNikko/Fantasy-Map-Generator)** - Panel redesign proposal | **[Film Packaging Archive](https://github.com/LandoNikko/Film-Packaging)** - UI Redesign Concept |
 | :------------: | :------------: |
 | ![Fantasy Map Generator](https://i.imgur.com/wunrWUn.jpeg) | ![Film Packaging Archive](https://i.imgur.com/JaZtovM.jpeg) |
+
+### Misc
+
+| **[Rodent Family](https://rodent-family.art/)** - Commissioned Art Project | **[VERSUS](https://github.com/LandoNikko/Film-Packaging)** - Gamified sword project (WIP) |
+| :------------: | :------------: |
+| ![Rodent Family](https://i.imgur.com/jdSMNsf.jpeg) | ![VERSUS](https://i.imgur.com/OnbOVXw.jpeg) |
