@@ -41,6 +41,6 @@ Solving problems and experimenting from UI approaches to tackling UX challenges.
 
 ### Misc
 
-| **[Rodent Family](https://rodent-family.art/)** - Commissioned Art Project | **[VERSUS](https://github.com/LandoNikko/Film-Packaging)** - Gamified sword project (WIP) |
+| **[Rodent Family](https://rodent-family.art/)** - Commissioned Art Project | **[VERSUS](https://github.com/LandoNikko/versus)** - Gamified sword project (WIP) |
 | :------------: | :------------: |
 | ![Rodent Family](https://i.imgur.com/jdSMNsf.jpeg) | ![VERSUS](https://i.imgur.com/OnbOVXw.jpeg) |
